@@ -12,15 +12,17 @@ function Section4() {
                 </Col>
                 <Col lg={6} className='px-5'>
                 <h2>
-                    Nothing brings people together like a good burger
+                 🍔 Savor the Flavor: Burger Bonanza! 🍔
                 </h2>
                 <p>
-                    hdfgweyfgseygfuweyfgeufygweufytefgdegfveufvjevftuwefvefe feuydfg eufgseygfewtyufwe  dhevftyeuyvfe fejvfeufevfevdfgefe fe hfvefveutfe fehf eutfvwf .
+                Join us for a mouthwatering celebration of our signature burgers! For a limited time, enjoy 20% off your favorite burger when you order online or dine in.
                 </p>
                 <ul>
-                    <li><p>dgefveywtfejfvejffejfvgsdfjsegfvs</p></li>
-                    <li><p>dgefveywtfejfvejffejfvgsdfjsegfvs</p></li>
-                    <li><p>dgefveywtfejfvejffejfvgsdfjsegfvs</p></li>
+                    <h2>🌟 Why Our Burgers?</h2>
+                    <li><p><b>Fresh Ingredients:</b> Made with locally sourced, high-quality meats and fresh toppings.</p></li>
+                    <li><p><b>Customizable:</b> Build your perfect burger with a variety of gourmet toppings and sauces.</p></li>
+                    <li><p><b>Plant-Based Options:</b> Delicious choices for everyone, including our tasty plant-based patties!</p></li>
+                    <li><p><b>🎉 Special Offer:</b> Buy any burger and get a side of our crispy fries for just <b>₹1!</b></p></li>
                 </ul>
                 </Col>
             </Row>
