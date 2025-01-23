@@ -9,17 +9,17 @@ const mockData = [
     {
       image: Pizza,
       title: "Original",
-      paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+      paragraph: `Pizza is a beloved dish that originated in Italy and has since become a global favorite. It typically consists of a round, flat base of dough topped with tomato sauce, cheese, and a variety of toppings such as vegetables, meats, and herbs`,
     },
     {
       image: Salad,
       title: "Qualty Foods",
-      paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+      paragraph: `Salad is a refreshing and versatile dish that typically consists of a mixture of raw or cooked vegetables, fruits, nuts, seeds, and sometimes proteins like chicken, fish, or beans`,
     },
     {
       image: Delivery,
       title: "Fastest Delivery",
-      paragraph: `Porta semper lacus cursus, feugiat primis ultrice a ligula risus auctor an tempus feugiat dolor lacinia cubilia curae integer orci congue and metus integer primis in integer metus`,
+      paragraph: `This service has gained immense popularity, especially in the food industry, where customers increasingly expect their meals to arrive promptly`,
     },
     // Add more mock data objects as needed
   ];
