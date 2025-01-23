@@ -23,7 +23,7 @@ function Section5() {
           <Col lg={6} className='text-center text-lg-start mb-5 mb-lg-0'>
           <h4>download mobile app and</h4>
           <h2>save upto 20%</h2>
-          <p>dhvusfeysfuweyf euyfeyutfvetuvfe aduyfvwefvewytff hfveqyf</p>
+          <p>Don’t miss out on this limited-time offer! Enjoy a fantastic <b>20% discount</b> on your favorite burgers when you order through our website. Whether you're craving a classic cheeseburger or an adventurous gourmet creation, now is the perfect time to indulge. Simply use the promo code <b>SAVE20</b> at checkout to unlock your savings</p>
           <Link to="/" >
           <img src={storeios} alt="ios" className='img-fluid me-3 store'/></Link>
           <Link to="/" >
