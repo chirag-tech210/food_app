@@ -12,7 +12,7 @@ function Section7() {
                     <h4>we guarantee</h4>
                     <h2>30 minutes delivery!</h2>
                     <p>
-                        rgewvfvbwe vereghrgver bvth
+                    Order now and experience our <b>Fastest Delivery Ever!</b> Get your favorite burger delivered to your door in <b>30 minutes or less,</b> or your next meal is <b>on us!</b>
                     </p>
                     <Link to='/' className='btn btn_red px-4 py-2 rounded-0'>
                     CALL: 9999888800
