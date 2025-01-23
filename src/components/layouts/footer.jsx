@@ -55,7 +55,7 @@ function Footer() {
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
             <div className='text-cente'>
               <h5>Order Now</h5>
-              <p>Quaerat neque purus ipsum</p>
+              <p>Don’t wait any longer to enjoy the mouthwatering burgers you’ve been dreaming about!</p>
               <p><Link to='tel:9999888800' className='calling'>9999-8888-00</Link></p>
 
             </div>
@@ -64,7 +64,7 @@ function Footer() {
           <Col sm={6} lg={3} className='mb-4 mb-lg-0'>
             <div className='text-cente'>
               <h5>follow us</h5>
-              <p>Quaerat neque purus ipsum</p>
+              <p>Don’t wait any longer to enjoy the mouthwatering burgers you’ve been dreaming about!</p>
               <ul className='list-unstyled text-center mt-2'>
                 <li>
                   <Link to='/'>
