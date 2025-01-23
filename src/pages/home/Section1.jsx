@@ -14,8 +14,8 @@ function Section1() {
             <div className='price-badge'>
               <div className='badge_text'>
                 <h4 className='h4-xs'>only</h4>
-                <h3 className='h3-lg'>$5.77</h3>
-              </div>
+                <h3 className='h3-lg'>₹69</h3>
+              </div
             </div>
             </div>
           </Col>
